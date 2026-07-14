@@ -17,9 +17,6 @@ Build and deploy a full-stack music recommendation web application that allows u
 ### Recommendation
 - Recommend 10 similar songs using **K-Nearest Neighbors** with **cosine similarity**.
 
-### Genre Classification
-- Predict the genre of a new song using a **Decision Tree Classifier**.
-
 ### Popularity Prediction
 - Predict a song's popularity score using the better-performing model between:
   - KNN Regressor
@@ -35,9 +32,6 @@ Search for songs by title or artist.
 
 ### `GET /recommend/{song_id}`
 Returns the 10 most similar songs.
-
-### `POST /predict-genre`
-Predicts a song's genre from its audio features.
 
 ### `POST /predict-popularity`
 Predicts a song's popularity score from its audio features.
