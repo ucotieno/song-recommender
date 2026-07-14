@@ -56,3 +56,7 @@ A deployed web application that integrates:
 - REST APIs with FastAPI
 - Interactive frontend
 - Cloud deployment on Render
+
+## Dataset
+
+https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
